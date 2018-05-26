@@ -1,6 +1,6 @@
-# WinBatch
+# WinScripts
 
-My batch files for Windows
+My batch files and other schripts for Windows
 
 ## Backup
 
